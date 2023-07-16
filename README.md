@@ -1,5 +1,6 @@
 # hacker-library
-Description:
+Free Cybersecurity Resources (Books)
+## Description:
 Welcome to the hacker library! This is a collection of books I've read on hacking and cybersecurity, curated to provide valuable resources and insights for aspiring hackers and cybersecurity enthusiasts.
 
 Whether you're looking to enhance your ethical hacking skills, deepen your understanding of cybersecurity principles, or explore the latest trends in the field, this repository aims to be a go-to resource. It covers a wide range of topics, including network security, penetration testing, cryptography, secure coding, threat intelligence, and more.
